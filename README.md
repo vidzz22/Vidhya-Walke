@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" alt="Banner Image" style="width:100%; max-height:200px; object-position: top;">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" alt="Banner Image" style="width:100%; max-height:100px; object-position: top;">
 <h1 align="center">Hi 👋, I'm Vidhya Walke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center" style="width: 120px; height: auto;"> <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="vidzz22" /> </p>
