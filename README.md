@@ -1,3 +1,4 @@
+![Visitor Count](https://profile-counter.glitch.me/{vidzz22}/count.svg)
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" alt="Banner Image" style="width:100%; max-height:100px; object-position: top;">
 <h1 align="center">Hi 👋, I'm Vidhya Walke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
