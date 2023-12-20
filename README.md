@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg)]
 <h1 align="center">Hi 👋, I'm Vidhya Walke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="center" style="width: 120px; height: auto;"> <img src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="vidzz22" /> </p>
