@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, python, javascript**
 
-- 📫 How to reach me **vidhyawalke22@gmail.com**
+- 📫 How to reach me **vidhyawalke022@gmail.com**
 
 - ⚡ Fun fact **Vidhya Walke has a collection of unique and colorful socks, with a pair for every mood and occasion!**
 
